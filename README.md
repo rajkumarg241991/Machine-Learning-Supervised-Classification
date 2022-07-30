@@ -1,6 +1,6 @@
 # Machine-Learning-Supervised-Classification
-Machine learning models to predict e-commerce visitors
-Result Analysis & Discussion:
+# Machine learning models to predict e-commerce visitors
+# Result Analysis & Discussion:
 In this project, we used the method of models as the classification of our model for best 
 prediction. We pre-processed our raw data and obtained trained datasets from which SVM, RF 
 and LR were applied. We can conclude the following after analyzing our outcomes:
